@@ -1,0 +1,16 @@
+[
+	{
+		"name": "LGD",
+		"unitType": "Melee",
+		"replaces": "Modern Armor",
+		"uniqueTo":"Rhodes Island",
+		"movement": 5,
+		"strength": 130,
+		"cost": 225,
+		"requiredTech": "Lazers",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": ["+[50]% combat bonus in [Hill]","+[40]% combat bonus in [Forest]","+[30]% combat bonus in [Jungle]"],
+		"promotions":["Shock I"],
+		"attackSound": "shot"
+	}
+]

@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Rhodes Island",
+		"leaderName": "Amiya",
+		"adjective": ["Operators"],
+		"startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Rhodes Island is in normal sailing mode. Doctor, can you sort out our heading for me?",
+		"startIntroPart2": "We've lost so much that's dear to us to make it so far. Sometimes, I can't help but ask myself... is it really worth it?",
+		"declaringWar": "Are you afraid of me?",
+		"attacked": "Incoming! Get ready, everyone!",
+		"defeated": "Get it together, everyone!",
+		"introduction": "Welcome to Rhodes Islans.",
+		"neutralHello": "Greetings.",
+		"hateHello": "Hello! What do you want?",
+		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
+		"outerColor": [0,0,255],
+		"innerColor": [255,255,255],
+                "favoredReligion": "Christianity",
+		"uniques": ["[+9 Production] from every [Farm]"],
+		"cities": ["Lungmen","Chernobog","Wolumonde","Kawalerielki","Sal Viento","Shangshu","Londinium","Reefsteep","Lingones"]
+	}        	
+]
